@@ -1,0 +1,9 @@
+[14-Dec-2017 11:00:46 Europe/Berlin] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/forea/public_html/BioRelai2/controleurs/controleurPrincipal.php on line 45
+[14-Dec-2017 11:01:26 Europe/Berlin] PHP Warning:  require_once(modeles/dto/personneDAO.php): failed to open stream: No such file or directory in /home/forea/public_html/BioRelai2/auto/autoload.php on line 4
+[14-Dec-2017 11:01:26 Europe/Berlin] PHP Fatal error:  require_once(): Failed opening required 'modeles/dto/personneDAO.php' (include_path='.:/usr/share/php') in /home/forea/public_html/BioRelai2/auto/autoload.php on line 4
+[14-Dec-2017 11:12:33 Europe/Berlin] PHP Notice:  Undefined offset: 0 in /home/forea/public_html/BioRelai2/modeles/dao/PersonneDAO.php on line 29
+[14-Dec-2017 11:13:09 Europe/Berlin] PHP Notice:  Undefined offset: 0 in /home/forea/public_html/BioRelai2/modeles/dao/PersonneDAO.php on line 27
+[14-Dec-2017 11:13:52 Europe/Berlin] PHP Warning:  include_once(controleurs/controleurMonCompte.php): failed to open stream: No such file or directory in /home/forea/public_html/BioRelai2/controleurs/controleurPrincipal.php on line 74
+[14-Dec-2017 11:13:52 Europe/Berlin] PHP Warning:  include_once(): Failed opening 'controleurs/controleurMonCompte.php' for inclusion (include_path='.:/usr/share/php') in /home/forea/public_html/BioRelai2/controleurs/controleurPrincipal.php on line 74
+[14-Dec-2017 11:15:25 Europe/Berlin] PHP Warning:  include_once(controleurs/controleurMonCompte.php): failed to open stream: No such file or directory in /home/forea/public_html/BioRelai2/controleurs/controleurPrincipal.php on line 74
+[14-Dec-2017 11:15:25 Europe/Berlin] PHP Warning:  include_once(): Failed opening 'controleurs/controleurMonCompte.php' for inclusion (include_path='.:/usr/share/php') in /home/forea/public_html/BioRelai2/controleurs/controleurPrincipal.php on line 74
